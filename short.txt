@@ -1,0 +1,3 @@
+short  코드 작성
+short  코드 작성 2
+bugfix after merge for release/1.0
